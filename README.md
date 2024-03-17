@@ -1,4 +1,4 @@
-# Petrov-game-snow-invaders
+# Snow Invaders
 
 команды для установки соответствующих библиотек:
 pip install pygame
